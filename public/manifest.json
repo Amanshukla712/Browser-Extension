@@ -1,6 +1,16 @@
 {
+  "manifest-version": 2,
+  "name" : "BrowsEx",
+  "author" : "Aman Shukla",
+  "version" : "1.0",
+  "description" : "A funny browser extension that lets you keep a track of your work with funny background images to lighten up your mood and some motivational and funky quotes",
+  "chrome_url_overrides" : {
+    "newtab" : "index.html"
+  }
+  
+  
+  
   "short_name": "React App",
-  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
