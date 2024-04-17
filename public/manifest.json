@@ -6,7 +6,7 @@
   "description" : "A funny browser extension that lets you keep a track of your work with funny background images to lighten up your mood and some motivational and funky quotes",
   "chrome_url_overrides" : {
     "newtab" : "index.html"
-  }
+  },
   
   
   
